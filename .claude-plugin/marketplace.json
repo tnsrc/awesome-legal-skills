@@ -10,7 +10,7 @@
     {
       "name": "nda-review-jamie-tso",
       "description": "Guide for reviewing incoming commercial NDAs, producing a clause-by-clause issue log with redlines and rationales",
-      "version": "1.0.0",
+      "version": "2025.12.30",
       "author": {
         "name": "Jamie Tso"
       },
@@ -20,7 +20,7 @@
     {
       "name": "legal-simulation-patrick-munro",
       "description": "Framework for demonstrating AI capabilities in legal contexts with detailed personas and progressive complexity scenarios",
-      "version": "1.0.0",
+      "version": "2026.01.12",
       "author": {
         "name": "Patrick Munro"
       },
@@ -30,7 +30,7 @@
     {
       "name": "tech-contract-negotiation-patrick-munro",
       "description": "Guide to negotiating technology services agreements with three-position frameworks and concession roadmaps",
-      "version": "1.0.0",
+      "version": "2026.01.12",
       "author": {
         "name": "Patrick Munro"
       },
@@ -40,7 +40,7 @@
     {
       "name": "vendor-due-diligence-patrick-munro",
       "description": "Framework for assessing IT vendors with structured risk assessments and regulatory checklists (GDPR, DORA, NIS2, SOX)",
-      "version": "1.0.0",
+      "version": "2026.01.12",
       "author": {
         "name": "Patrick Munro"
       },
@@ -50,7 +50,7 @@
     {
       "name": "statute-analysis-rafal-fryc",
       "description": "Guide for reading, interpreting, and applying US statutes, regulations, and rules with canons of construction",
-      "version": "1.0.0",
+      "version": "2026.01.14",
       "author": {
         "name": "Rafał Stanisław Fryc"
       },
@@ -60,7 +60,7 @@
     {
       "name": "politique-confidentialite-malik-taiar",
       "description": "Guide pour la rédaction de politiques de confidentialité conformes au RGPD avec recommandations CNIL",
-      "version": "1.0.0",
+      "version": "2025.12.24",
       "author": {
         "name": "Malik Taiar"
       },
@@ -70,7 +70,7 @@
     {
       "name": "politique-cookies-malik-taiar",
       "description": "Guide pour la rédaction de politiques cookies conformes au RGPD et à la directive ePrivacy",
-      "version": "1.0.0",
+      "version": "2025.12.24",
       "author": {
         "name": "Malik Taiar"
       },
@@ -80,7 +80,7 @@
     {
       "name": "politique-lanceur-alerte-malik-taiar",
       "description": "Guide pour l'évaluation ou la rédaction de politiques lanceur d'alerte conformes à la loi Sapin II",
-      "version": "1.0.0",
+      "version": "2025.12.31",
       "author": {
         "name": "Malik Taiar"
       },
@@ -90,7 +90,7 @@
     {
       "name": "notification-licenciement-selim-brihi",
       "description": "Guide pour la rédaction de notifications de licenciement conformes au droit du travail français",
-      "version": "1.0.0",
+      "version": "2026.01.16",
       "author": {
         "name": "Sélim Brihi"
       },
@@ -100,7 +100,7 @@
     {
       "name": "requete-cph-licenciement-faute-grave-selim-brihi",
       "description": "Guide pour la rédaction de requêtes CPH contestant un licenciement pour faute grave",
-      "version": "1.0.0",
+      "version": "2026.01.23",
       "author": {
         "name": "Sélim Brihi"
       },
@@ -110,7 +110,7 @@
     {
       "name": "assignation-refere-recouvrement-creance-selim-brihi",
       "description": "Guide pour la rédaction d'assignations en référé pour le recouvrement de créances commerciales",
-      "version": "1.0.0",
+      "version": "2026.01.23",
       "author": {
         "name": "Sélim Brihi"
       },
@@ -120,7 +120,7 @@
     {
       "name": "assignation-refere-communication-associe-selim-brihi",
       "description": "Guide pour la rédaction d'assignations en référé pour la communication de documents sociaux (art. L. 238-1)",
-      "version": "1.0.0",
+      "version": "2026.01.23",
       "author": {
         "name": "Sélim Brihi"
       },
@@ -130,7 +130,7 @@
     {
       "name": "docx-processing-anthropic",
       "description": "Document creation, editing, and analysis with tracked changes and comments support",
-      "version": "1.0.0",
+      "version": "2025.12.01",
       "author": {
         "name": "Anthropic"
       },
@@ -139,7 +139,7 @@
     {
       "name": "docx-processing-openai",
       "description": "Document reading and creation with visual quality control for Word files",
-      "version": "1.0.0",
+      "version": "2025.12.12",
       "author": {
         "name": "OpenAI"
       },
@@ -148,7 +148,7 @@
     {
       "name": "docx-editing-superdoc",
       "description": "Edit Word documents with live preview and track changes via SuperDoc VS Code extension",
-      "version": "1.0.0",
+      "version": "2026.01.29",
       "author": {
         "name": "Antoine Louis"
       },
@@ -158,7 +158,7 @@
     {
       "name": "pdf-processing-anthropic",
       "description": "PDF manipulation toolkit for text extraction, creation, merging, and form handling",
-      "version": "1.0.0",
+      "version": "2025.12.01",
       "author": {
         "name": "Anthropic"
       },
@@ -167,7 +167,7 @@
     {
       "name": "pdf-processing-openai",
       "description": "PDF reading and creation with visual quality control",
-      "version": "1.0.0",
+      "version": "2025.12.12",
       "author": {
         "name": "OpenAI"
       },
@@ -176,7 +176,7 @@
     {
       "name": "xlsx-processing-anthropic",
       "description": "Spreadsheet creation, editing, and analysis with formulas and data visualization",
-      "version": "1.0.0",
+      "version": "2025.12.01",
       "author": {
         "name": "Anthropic"
       },
@@ -185,7 +185,7 @@
     {
       "name": "xlsx-processing-openai",
       "description": "Spreadsheet reading, creation, editing, and analysis with visual quality control",
-      "version": "1.0.0",
+      "version": "2025.12.12",
       "author": {
         "name": "OpenAI"
       },
@@ -194,7 +194,7 @@
     {
       "name": "pptx-processing-anthropic",
       "description": "Presentation creation, editing, and analysis with layouts and speaker notes",
-      "version": "1.0.0",
+      "version": "2025.12.01",
       "author": {
         "name": "Anthropic"
       },
@@ -203,7 +203,7 @@
     {
       "name": "tabular-review-antoine-louis",
       "description": "Analyze multiple documents against user-defined columns and produce structured Excel output with citations",
-      "version": "1.0.0",
+      "version": "2026.01.14",
       "author": {
         "name": "Antoine Louis"
       },
@@ -213,7 +213,7 @@
     {
       "name": "skill-creator-anthropic",
       "description": "Guide for creating effective Agent Skills with specialized knowledge and workflows",
-      "version": "1.0.0",
+      "version": "2025.12.01",
       "author": {
         "name": "Anthropic"
       },
@@ -222,7 +222,7 @@
     {
       "name": "skill-creator-openai",
       "description": "Guide for creating effective Agent Skills with specialized knowledge and workflows",
-      "version": "1.0.0",
+      "version": "2025.12.18",
       "author": {
         "name": "OpenAI"
       },
@@ -232,7 +232,7 @@
     {
       "name": "skill-optimizer-malik-taiar",
       "description": "Analyze work sessions and propose improvements to skills based on corrections and edge cases",
-      "version": "1.0.0",
+      "version": "2026.01.07",
       "author": {
         "name": "Malik Taiar"
       },
