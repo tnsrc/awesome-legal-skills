@@ -19,7 +19,7 @@
       <rect x="8" y="8" width="28" height="22" fill="none" stroke="#5c5247" stroke-width="1" opacity="0.6"/>
       <text x="22" y="24" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" fill="#c96442" text-anchor="middle">07</text>
     </g>
-    <text x="100" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="600" fill="#3d3530" text-anchor="middle">Tooling</text>
+    <text x="100" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="600" fill="#3d3530" text-anchor="middle">Legal Tooling</text>
     <line x1="45" y1="56" x2="155" y2="56" stroke="#5c5247" stroke-width="0.5" opacity="0.3"/>
     <text x="100" y="68" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6b5b4f" text-anchor="middle" opacity="1">Utilities</text>
     <text x="100" y="80" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6b5b4f" text-anchor="middle" opacity="1">&amp; productivity helpers</text>

@@ -370,6 +370,16 @@
       },
       "license": "AGPL-3.0",
       "source": "./skills/skill-optimizer-lawvable"
+    },
+    {
+      "name": "security-review-openai",
+      "description": "Perform language and framework specific security best-practice reviews and suggest improvements",
+      "version": "2026.02.02",
+      "author": {
+        "name": "OpenAI"
+      },
+      "license": "Apache-2.0",
+      "source": "./skills/security-review-openai"
     }
   ]
 }

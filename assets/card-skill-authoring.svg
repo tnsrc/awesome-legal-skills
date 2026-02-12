@@ -17,13 +17,13 @@
     <rect x="2" y="2" width="196" height="96" rx="2" fill="none" stroke="#c4baa8" stroke-width="1" opacity="0.8"/>
     <g>
       <rect x="8" y="8" width="28" height="22" fill="none" stroke="#5c5247" stroke-width="1" opacity="0.6"/>
-      <text x="22" y="24" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" fill="#c96442" text-anchor="middle">10</text>
+      <text x="22" y="24" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" fill="#c96442" text-anchor="middle">11</text>
     </g>
-    <text x="100" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="600" fill="#3d3530" text-anchor="middle">Skill Authoring</text>
+    <text x="100" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="600" fill="#3d3530" text-anchor="middle">Skill Creation</text>
     <line x1="45" y1="56" x2="155" y2="56" stroke="#5c5247" stroke-width="0.5" opacity="0.3"/>
-    <text x="100" y="68" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6b5b4f" text-anchor="middle" opacity="1">Create</text>
-    <text x="100" y="80" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6b5b4f" text-anchor="middle" opacity="1">&amp; publish your own skills</text>
-    <text x="190" y="92" font-family="'Courier New', Courier, monospace" font-size="10" fill="#5c5247" text-anchor="end" opacity="0.8">§10</text>
+    <text x="100" y="68" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6b5b4f" text-anchor="middle" opacity="1">Authoring</text>
+    <text x="100" y="80" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6b5b4f" text-anchor="middle" opacity="1">of skills</text>
+    <text x="190" y="92" font-family="'Courier New', Courier, monospace" font-size="10" fill="#5c5247" text-anchor="end" opacity="0.8">§11</text>
     <path d="M 186 2 L 198 2 L 198 14 Z" fill="#e8e3d9" opacity="0.6"/>
     <path d="M 186 2 L 198 14" stroke="#c4baa8" stroke-width="0.5" fill="none" opacity="0.5"/>
   </g>

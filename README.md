@@ -55,56 +55,44 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 <table>
 <tr>
   <td align="center">
-    <a href="#commercial-law">
-      <img src="assets/card-commercial-law.svg" alt="Commercial Law" width="200"/>
-    </a>
+    <a href="#commercial-law"><img src="assets/card-commercial-law.svg" alt="Commercial Law" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#privacy-law">
-      <img src="assets/card-privacy-law.svg" alt="Privacy Law" width="200"/>
-    </a>
+    <a href="#privacy-law"><img src="assets/card-privacy-law.svg" alt="Privacy Law" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#compliance">
-      <img src="assets/card-compliance.svg" alt="Compliance" width="200"/>
-    </a>
+    <a href="#compliance"><img src="assets/card-compliance.svg" alt="Compliance" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#employment-law">
-      <img src="assets/card-employment-law.svg" alt="Employment Law" width="200"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="#corporate-law">
-      <img src="assets/card-corporate-law.svg" alt="Corporate Law" width="200"/>
-    </a>
+    <a href="#employment-law"><img src="assets/card-employment-law.svg" alt="Employment Law" width="200"/></a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <a href="#legal-methodology">
-      <img src="assets/card-legal-methodology.svg" alt="Legal Methodology" width="200"/>
-    </a>
+    <a href="#corporate-law"><img src="assets/card-corporate-law.svg" alt="Corporate Law" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#tooling">
-      <img src="assets/card-tool.svg" alt="Tooling" width="200"/>
-    </a>
+    <a href="#legal-methodology"><img src="assets/card-legal-methodology.svg" alt="Legal Methodology" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#microsoft-office">
-      <img src="assets/card-microsoft-office.svg" alt="Microsoft Office" width="200"/>
-    </a>
+    <a href="#legal-tooling"><img src="assets/card-tool.svg" alt="Legal Tooling" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#adobe-acrobat">
-      <img src="assets/card-adobe-acrobat.svg" alt="Adobe Acrobat" width="200"/>
-    </a>
+    <a href="#microsoft-office"><img src="assets/card-microsoft-office.svg" alt="Microsoft Office" width="200"/></a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="#adobe-acrobat"><img src="assets/card-adobe-acrobat.svg" alt="Adobe Acrobat" width="200"/></a>
   </td>
   <td align="center">
-    <a href="#skill-authoring">
-      <img src="assets/card-skill-authoring.svg" alt="Skill Authoring" width="200"/>
-    </a>
+    <a href="#vibe-coding"><img src="assets/card-vibe-coding.svg" alt="Vibe-Coding" width="200"/></a>
+  </td>
+  <td align="center">
+    <a href="#skill-creation"><img src="assets/card-skill-authoring.svg" alt="Skill Creation" width="200"/></a>
+  </td>
+  <td align="center">
+    <a href="#skill-optimization"><img src="assets/card-skill-optimization.svg" alt="Skill Optimization" width="200"/></a>
   </td>
 </tr>
 </table>
@@ -203,23 +191,20 @@ _Prepare structured briefings for meetings with legal relevance and track result
 <br>
 <div align="center"><img src="assets/header-utility-skills.svg" alt="UTILITY SKILLS" height="60"></div>
 
-### Tooling
+### Legal Tooling
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tabular-review-lawvable"><img src="assets/badge-tabular-review-lawvable.svg" alt="Tabular Review by Lawvable"></a>  
 _Analyze multiple documents (PDF, DOCX) against user-defined columns and produce a structured Excel output with citations. Compare clauses or provisions across contracts._
-
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vscode-extension-builder-lawvable"><img src="assets/badge-vscode-extension-builder-lawvable.svg" alt="VS Code Extension by Lawvable"></a>  
-_Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Supports commands, webviews, custom editors, tree views, and AI agent integration._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
 ### Microsoft Office
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-lawvable"><img src="assets/badge-docx-processing-lawvable.svg" alt="Word by Lawvable"></a>  
-_Edit Word documents with live preview and track changes via SuperDoc VS Code extension. Use when editing DOCX files, making tracked changes, or redlining contracts._
-
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/outlook-emails-lawvable"><img src="assets/badge-outlook-emails-lawvable.svg" alt="Outlook by Lawvable"></a>  
 _Read, search, and download emails and attachments from Microsoft Outlook via OAuth2._
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-lawvable"><img src="assets/badge-docx-processing-lawvable.svg" alt="Word by Lawvable"></a>  
+_Edit Word documents with live preview and track changes via SuperDoc VS Code extension. Use when editing DOCX files, making tracked changes, or redlining contracts._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-superdoc"><img src="assets/badge-docx-processing-superdoc.svg" alt="Word by Superdoc"></a>  
 _Search, replace, and read text in Word documents from the command line._
@@ -227,20 +212,20 @@ _Search, replace, and read text in Word documents from the command line._
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-anthropic"><img src="assets/badge-docx-processing-anthropic.svg" alt="Word by Anthropic"></a>  
 _Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-anthropic"><img src="assets/badge-xlsx-processing-anthropic.svg" alt="Excel by Anthropic"></a>  
-_Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization._
-
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pptx-processing-anthropic"><img src="assets/badge-pptx-processing-anthropic.svg" alt="PowerPoint by Anthropic"></a>  
-_Comprehensive presentation creation, editing, and analysis with support for layouts, comments, and speaker notes._
-
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-openai"><img src="assets/badge-docx-processing-openai.svg" alt="Word by OpenAI"></a>  
 _Comprehensive document reading and creation with visual quality control for Word documents._
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-anthropic"><img src="assets/badge-xlsx-processing-anthropic.svg" alt="Excel by Anthropic"></a>  
+_Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-openai"><img src="assets/badge-xlsx-processing-openai.svg" alt="Excel by OpenAI"></a>  
 _Comprehensive spreadsheet reading, creation, editing, and analysis with visual quality control._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-manus"><img src="assets/badge-xlsx-processing-manus.svg" alt="Excel by Manus"></a>  
 _Professional Excel spreadsheet creation with a focus on aesthetics and data analysis._
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pptx-processing-anthropic"><img src="assets/badge-pptx-processing-anthropic.svg" alt="PowerPoint by Anthropic"></a>  
+_Comprehensive presentation creation, editing, and analysis with support for layouts, comments, and speaker notes._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
 
@@ -252,18 +237,35 @@ _Comprehensive PDF manipulation, including extracting text and tables, creating 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pdf-processing-openai"><img src="assets/badge-pdf-processing-openai.svg" alt="PDF by OpenAI"></a>  
 _Comprehensive PDF reading and creation with visual quality control._
 
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
+
+### Vibe-Coding
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vscode-extension-builder-lawvable"><img src="assets/badge-vscode-extension-builder-lawvable.svg" alt="VS Code Extension by Lawvable"></a>  
+_Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Supports commands, webviews, custom editors, tree views, and AI agent integration._
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/security-review-openai"><img src="assets/badge-security-review-openai.svg" alt="Security Review by OpenAI"></a>  
+_Perform language and framework specific security best-practice reviews and suggest improvements. Supports Python, JavaScript/TypeScript, and Go with detailed vulnerability reports and fix suggestions._
+
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
+
 <br>
 <div align="center"><img src="assets/header-meta-skills.svg" alt="META-SKILLS" height="60"></div>
-<br>
-
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>  
-_Analyze a current work session and propose improvements to skills. Captures learnings automatically after working with a skill._
+    
+### Skill Creation
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-anthropic"><img src="assets/badge-skill-creator-anthropic.svg" alt="Self-Creation by Anthropic"></a>  
 _Guide for creating effective skills that extend the model's capabilities with specialized knowledge, workflows, or tool integrations._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-openai"><img src="assets/badge-skill-creator-openai.svg" alt="Self-Creation by OpenAI"></a>  
 _Guide for creating effective skills that extend the model's capabilities with specialized knowledge, workflows, or tool integrations._
+
+<div align="center"><img src="assets/entry-separator-light-animated.svg" alt="---"></div>
+
+### Skill Optimization
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>  
+_Analyze a current work session and propose improvements to skills. Captures learnings automatically after working with a skill._
 
 ## Contributing
 
